@@ -1,8 +1,6 @@
 # AI-Powered Breast Cancer Detection System
 An intelligent system for early breast cancer detection using advanced machine learning techniques.
 
-![Medical Analysis](https://cdn-images-1.medium.com/max/2600/1*gNcFEL1cpGpDC4vo1zUAWA.png)
-
 ## Project Overview
 This project implements an interactive web application that helps medical professionals analyze breast tissue data for cancer detection. Using advanced machine learning algorithms and data visualization techniques, our system provides real-time analysis and predictions.
 
@@ -124,11 +122,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - Open-source community for tools and libraries
 - Research institutions for dataset access
 
-## Contact
-For questions or collaboration opportunities:
-- Create an issue in this repository
-- Connect through LinkedIn [Your LinkedIn]
-- Email: your.email@example.com
 
 ---
 *This project is dedicated to advancing healthcare technology and improving patient outcomes through innovative solutions.*
